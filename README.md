@@ -10,6 +10,6 @@ NON TESTATO SU WII, vWII (WII U) E WII MINI, TESTATO SU DOLPHIN EMULATOR (Non fu
   - Immagini: [M4nueleZ](https://github.com/M4nueleZ)
   - Modifiche: DefeatOf13
   - Musica:
-      - [Vieni a ballare in Puglia](https://www.youtube.com/watch?v=EDCHk6JhFzQ) - [Caparezza](https://www.youtube.com/watch?v=EDCHk6JhFzQ) ft. [Al bano](https://www.youtube.com/channel/UCVmRM-SzS6WhvWTImlNjvYQ)
+      - [Vieni a ballare in Puglia](https://www.youtube.com/watch?v=EDCHk6JhFzQ) - [Caparezza](https://www.youtube.com/@CaparezzaVEVO) ft. [Al bano](https://www.youtube.com/channel/UCVmRM-SzS6WhvWTImlNjvYQ)
 
 In futuro non garantisco usciranno altri update.
