@@ -1,6 +1,8 @@
 # TheCaparezzaChannel
 Questo canale per Nintendo Wii è una parodia di The Homebrew Channel.
 
+Basato su [Open Homebrew Channel](https://github.com/FIX94/hbc) by FIX94
+
 INSTALLANDOLO POTRESTI BRICKARE LA TUA WII, ASSICURATI DI AVER INSTALLATO BOOTMII (con relativo backup della NAND) E PRIILOADER.
 INSTALLATE A VOSTRO RISCHIO E PERICOLO, NON PRENDERO' ALCUNA RESPONSABILITA' PER EVENTUALI DANNI ALLA VOSTRA CONSOLE.
 
