@@ -16,4 +16,5 @@ Versione 2.0 | TESTATO SU WII, WII MINI, vWII (WII U) E DOLPHIN EMULATOR (Funzio
   - Musica:
       - [Vieni a ballare in Puglia](https://www.youtube.com/watch?v=EDCHk6JhFzQ) - [Caparezza](https://www.youtube.com/@CaparezzaVEVO) ft. [Al bano](https://www.youtube.com/channel/UCVmRM-SzS6WhvWTImlNjvYQ)
 
-In futuro non garantisco usciranno altri update.
+# ARCHIVIATO
+Dati le ultime notizie riguardanti HBC e libogc, questo canale verrà archiviato e NON riceverà più update in futuro
